@@ -1,4 +1,4 @@
-# ![Hi, I'm Afsha](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+# ![Hi, I'm Afsha]
 
 
 - 👀 I’m interested in devops 
