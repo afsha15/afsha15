@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @afsha15
+<p align="center">
+  <img src="https://your-animated-text.svg" alt="Hi, I'm Afsha" />
+</p>
+
 - 👀 I’m interested in devops 
 - 🌱 I’m currently learning devops 
 - 📫 How to reach me www.linkedin.com/in/afsha_muskan_k
@@ -21,9 +24,3 @@ Dependency management and project building made easy for Java applications.
 
 ## 🔧 Jenkins
 Continuous integration and deployment to streamline software development.
-██████╗ ██╗  ██╗ ██████╗ ███████╗
-██╔══██╗██║  ██║██╔═══██╗██╔════╝
-██████╔╝███████║██║   ██║█████╗  
-██╔═══╝ ██╔══██║██║   ██║██╔══
-██║     ██║  ██║╚██████╔╝███████╗
-╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
