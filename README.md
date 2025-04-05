@@ -21,9 +21,3 @@ Dependency management and project building made easy for Java applications.
 
 ## 🔧 Jenkins
 Continuous integration and deployment to streamline software development.
-
-# Welcome to My Project 🚀
-
-Here's a cool GIF to showcase the project:
-
-![Demo GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
