@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://your-animated-text.svg" alt="Hi, I'm Afsha" />
-</p>
+# ![Hi, I'm Afsha](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 
 - 👀 I’m interested in devops 
 - 🌱 I’m currently learning devops 
