@@ -22,7 +22,3 @@ Dependency management and project building made easy for Java applications.
 ## 🔧 Jenkins
 Continuous integration and deployment to streamline software development.
 
----
-
-Feel free to explore the repository, contribute, and enhance your skills with these tools! 💡
-
